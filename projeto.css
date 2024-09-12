@@ -1,0 +1,31 @@
+
+-
+background-color: var(#01080E);
+color: var(-
+255,0,0);
+display: flex;
+justify-content: center;
+align-items: center;
+min-height: 100vh;
+}
+.caixa-principal{
+background-color: var(#0B0D20);
+width: 90%;
+max-width: 600px;
+text-align: center;
+padding: 20px;
+}
+h1 {
+color: var(255,0,0);
+}
+button {
+background-color: var(#0B0D20);
+color: var(#D7F9FF);
+border: none;
+border-radius: 15px;
+padding: 15px;
+transition: background-color 0.3s;
+}
+button:hover {
+background-color: var(345,9,0);
+color: var(#0B0D20);
